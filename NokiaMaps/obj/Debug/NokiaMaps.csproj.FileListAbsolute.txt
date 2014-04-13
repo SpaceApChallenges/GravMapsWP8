@@ -1,0 +1,38 @@
+c:\users\sebastiano\documents\visual studio 2010\Projects\NokiaMaps\NokiaMaps\Bin\Debug\ApplicationIcon.png
+c:\users\sebastiano\documents\visual studio 2010\Projects\NokiaMaps\NokiaMaps\Bin\Debug\Background.png
+c:\users\sebastiano\documents\visual studio 2010\Projects\NokiaMaps\NokiaMaps\Bin\Debug\NokiaMaps.dll
+c:\users\sebastiano\documents\visual studio 2010\Projects\NokiaMaps\NokiaMaps\Bin\Debug\NokiaMaps.pdb
+c:\users\sebastiano\documents\visual studio 2010\Projects\NokiaMaps\NokiaMaps\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+c:\users\sebastiano\documents\visual studio 2010\Projects\NokiaMaps\NokiaMaps\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+c:\users\sebastiano\documents\visual studio 2010\Projects\NokiaMaps\NokiaMaps\obj\Debug\ResolveAssemblyReference.cache
+c:\users\sebastiano\documents\visual studio 2010\Projects\NokiaMaps\NokiaMaps\obj\Debug\App.g.i.cs
+c:\users\sebastiano\documents\visual studio 2010\Projects\NokiaMaps\NokiaMaps\obj\Debug\MainPage.g.i.cs
+c:\users\sebastiano\documents\visual studio 2010\Projects\NokiaMaps\NokiaMaps\obj\Debug\NokiaMaps.g.resources
+c:\users\sebastiano\documents\visual studio 2010\Projects\NokiaMaps\NokiaMaps\obj\Debug\NokiaMaps.dll
+c:\users\sebastiano\documents\visual studio 2010\Projects\NokiaMaps\NokiaMaps\obj\Debug\NokiaMaps.pdb
+c:\users\sebastiano\documents\visual studio 2010\Projects\NokiaMaps\NokiaMaps\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\sebastiano\documents\visual studio 2010\Projects\NokiaMaps\NokiaMaps\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\sebastiano\documents\visual studio 2010\Projects\NokiaMaps\NokiaMaps\Bin\Debug\AppManifest.xaml
+c:\users\sebastiano\documents\visual studio 2010\Projects\NokiaMaps\NokiaMaps\Bin\Debug\NokiaMaps.xap
+c:\users\sebastiano\documents\visual studio 2010\Projects\NokiaMaps\NokiaMaps\obj\Debug\XapCacheFile.xml
+C:\Users\Alessandro\Desktop\NokiaMaps\NokiaMaps\obj\Debug\App.g.cs
+C:\Users\Alessandro\Desktop\NokiaMaps\NokiaMaps\obj\Debug\Maps.g.cs
+C:\Users\Alessandro\Desktop\NokiaMaps\NokiaMaps\obj\Debug\PanoramaPage1.g.cs
+C:\Users\Alessandro\Desktop\NokiaMaps\NokiaMaps\obj\Debug\NokiaMaps.g.resources
+C:\Users\Alessandro\Desktop\NokiaMaps\NokiaMaps\Bin\Debug\ApplicationIcon.png
+C:\Users\Alessandro\Desktop\NokiaMaps\NokiaMaps\Bin\Debug\Background.png
+C:\Users\Alessandro\Desktop\NokiaMaps\NokiaMaps\Bin\Debug\NokiaMaps.dll
+C:\Users\Alessandro\Desktop\NokiaMaps\NokiaMaps\Bin\Debug\NokiaMaps.pdb
+C:\Users\Alessandro\Desktop\NokiaMaps\NokiaMaps\Bin\Debug\AppManifest.xaml
+C:\Users\Alessandro\Desktop\NokiaMaps\NokiaMaps\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Alessandro\Desktop\NokiaMaps\NokiaMaps\Bin\Debug\NokiaMaps_Debug_AnyCPU.xap
+C:\Users\Alessandro\Desktop\NokiaMaps\NokiaMaps\Bin\Debug\Coding4Fun.Toolkit.Audio.dll
+C:\Users\Alessandro\Desktop\NokiaMaps\NokiaMaps\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\Users\Alessandro\Desktop\NokiaMaps\NokiaMaps\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Alessandro\Desktop\NokiaMaps\NokiaMaps\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Alessandro\Desktop\NokiaMaps\NokiaMaps\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alessandro\Desktop\NokiaMaps\NokiaMaps\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alessandro\Desktop\NokiaMaps\NokiaMaps\obj\Debug\NokiaMaps.dll
+C:\Users\Alessandro\Desktop\NokiaMaps\NokiaMaps\obj\Debug\NokiaMaps.pdb
+C:\Users\Alessandro\Desktop\NokiaMaps\NokiaMaps\obj\Debug\XapCacheFile.xml
+C:\Users\Alessandro\Desktop\NokiaMaps\NokiaMaps\obj\Debug\NokiaMaps.csprojResolveAssemblyReference.cache
